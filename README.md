@@ -1,5 +1,5 @@
 - 👋 Hi, I’m   Harshana Puri
-- 👀 I’m interested in Machine learning algorithms 
+- 👀 I’m interested in Machine learning algorithms and Marketing analytics
 - 🌱 I’m currently working on neural networks. 
 - 💞️ I’m looking to collaborate on machine learning models.
 - 📫 How to reach me puriharshana@gmail.com
